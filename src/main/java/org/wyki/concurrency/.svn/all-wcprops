@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Cages/src/org/wyki/concurrency
+END
+ManualResetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/Cages/src/org/wyki/concurrency/ManualResetEvent.java
+END
+IResetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/Cages/src/org/wyki/concurrency/IResetEvent.java
+END
+AutoResetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/Cages/src/org/wyki/concurrency/AutoResetEvent.java
+END
